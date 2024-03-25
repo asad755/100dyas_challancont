@@ -1,3 +1,4 @@
+"use strict";
 // Demonstrating block scope
 {
     var blockLet = "visible inside the block";

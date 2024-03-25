@@ -1,3 +1,4 @@
+"use strict";
 // This profile sets itself up and can share info about the user
 var userProfile = (function () {
     // The user's details are kept inside

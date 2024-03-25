@@ -1,3 +1,4 @@
+"use strict";
 // Using `let` for a variable that can be reassigned
 var age = 25;
 age = 26; // Works fine because `let` allows reassignment

@@ -1,3 +1,4 @@
+"use strict";
 // This program makes a function that adds a specific number
 function makeAdder(valueToAdd) {
     // This is the magic box. It takes a number and adds your special number to it
